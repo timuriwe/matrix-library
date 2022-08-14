@@ -82,7 +82,9 @@ Use make utility for building the library and tests.
 
 ## __Usage:__
 Write some example code:
+
 ![usage_1](img/usage_1.png)
 
-Compile code with library using gcc
+Compile code with library using gcc:
+
 ![usage_2](img/usage_2.png)
