@@ -1,5 +1,4 @@
-# matrix-library
-Library with functions for actions with martices.
+# Matrix library
 
 ## __Description of project:__
 
